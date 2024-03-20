@@ -1,0 +1,4 @@
+{
+  "include": "/home/demonmaike/Рабочий стол/fastapi/**/*",
+  "venvPath": "/home/demonmaike/anaconda3/envs/base"
+}
